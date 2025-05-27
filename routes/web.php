@@ -9,3 +9,7 @@ Route::get('/', function () {
 Route::get('/pindahHalaman', function () {
     return view('pindahHalaman');
 });
+
+Route::get('/profil', function () {
+    return view('profil');
+});
