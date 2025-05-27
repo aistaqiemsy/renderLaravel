@@ -13,3 +13,7 @@ Route::get('/pindahHalaman', function () {
 Route::get('/profil', function () {
     return view('profil');
 });
+
+Route::get('/login', function () {
+    return view('login');
+});
