@@ -1,3 +1,1 @@
-Hi! Ini web Laravel Projek <br>
-Sudah di hosting :) by <b> Rifky</b>
-<a href="/pindahHalaman">Coba Pindah</a>
+Ini latihan Hosting Laravel, <a href="/pindahHalaman">Pindah Halaman</a> <br>
