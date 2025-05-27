@@ -7,5 +7,5 @@ Route::get('/', function () {
 });
 
 Route::get('/pindahHalaman', function () {
-    return "Coba deh...";
+    return view('pindahHalaman');
 });
